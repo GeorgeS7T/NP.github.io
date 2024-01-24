@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="frame">
+      <div class="div">
+        <div class="overlap">
+          <div class="overlap-group">
+            <div class="rectangle"></div>
+            <img class="element" src="img/10-1.png" alt="Description for image 1" />
+          </div>
+          <div class="text-wrapper">Начни сегодня!</div>
+          <div class="overlap-2">
+            <div class="rectangle-2"></div>
+            <img class="img" src="img/26-1.png" alt="Description for image 2" />
+          </div>
+          <div class="text-wrapper-2">Наличие</div>
+          <div class="text-wrapper-3">Заказ</div>
+        </div>
+        <div class="overlap-group-wrapper">
+          <div class="overlap-group-2">
+            <p class="p">Почему стиль - это все?</p>
+            <p class="text-wrapper-4">
+              Каждый человек хочет выделяться, одежда является одним из самых легких способов самовыражения. Большинство
+              брендов кричит “в нашей одежде вы будете особенным”. Но мы придерживаемся того, что вы сами по себе
+              особенные, следовательно одежда является своеобразным дополнением
+            </p>
+          </div>
+        </div>
+        <div class="div-2">
+          <div class="text-wrapper-5">САМОВЫРАЖЕНИЕ-КАЧЕСТВО</div>
+          <div class="div-wrapper"><div class="text-wrapper-6">СОЗДАЙ СВОЙ КАСТОМ</div></div>
+          <div class="overlap-3">
+            <img class="logo" src="img/logo-1.png" alt="Description for logo 1" /> <img class="logo-2" src="img/image.png" alt="Description for logo 2" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
